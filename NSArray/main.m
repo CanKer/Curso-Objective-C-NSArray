@@ -10,7 +10,10 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-       
+        /*NSArray no puede ser modificado
+        Para modificar un arreglo ver siguiente parte NSMutableArray */
+        
+        
         //así declaramos arreglos con NSArray
         NSArray * arreglo = [[NSArray alloc] initWithObjects:@"Calculo", @"Álgebra", @"Geometría", @"Aritmética", @"Matemáticas", @"Algoritmos", @"Métodos Numéricos", nil];
         //así mandamos a llamar arreglos
