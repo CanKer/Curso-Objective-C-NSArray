@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>54C04684-A3BB-48D8-9A93-B3CAD8737F05</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NSArray</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1B0F9456CA70CC767476E9732BE6B2E7A6ECAB2A</key>
+		<string>https://github.com/CanKer/Curso-Objective-C-NSArray.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NSArray.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1B0F9456CA70CC767476E9732BE6B2E7A6ECAB2A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CanKer/Curso-Objective-C-NSArray.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1B0F9456CA70CC767476E9732BE6B2E7A6ECAB2A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1B0F9456CA70CC767476E9732BE6B2E7A6ECAB2A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NSArray</string>
+		</dict>
+	</array>
+</dict>
+</plist>
